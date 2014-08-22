@@ -1,8 +1,29 @@
 <html>
 <head>
+<title>Sceneplex Authenticator</title>
+<script type="text/javascript">
+function loadXmlDoc(url) {
+    var xhr;
+    if (window.XMLHttpRequest) {
+        // code for IE7+, Firefox, Chrome, Opera, Safari
+        xhr = new XMLHttpRequest();
+    } else {
+        // code for IE6, IE5
+        xhr = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xhr.onreadystatechange=function() {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            document.getElementById("myDiv").innerHTML = xhr.responseText;
+        }
+    }
+    xhr.open("GET",url,true);
+    xhr.send();
+}
+</script>
 </head>
 <body>
 <h3>Sceneplex Authenticator</h3>
-Under Construction ...
+<div id="myDiv">Let AJAX change this text</div>
+<button type="button" onclick="loadXmlDoc('http://txtmsg.tripod.com/test/ajaxdemo.txt')">Change Content using CGI</button>
 </body>
 </html>
