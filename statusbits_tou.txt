@@ -52,11 +52,13 @@ PRIVACY POLICY
 
 We care about data privacy and security. We do not use the Software to intetionally collect, store, share, or sell your private information.
 
-We may collect certain techncal data, including, but not limited to, IP addresses of the devices interracting with the Software, for the purpose of operating, maintenaning, troubleshooting and debugging the Software. Such information may be retained in the log files and/or databases stored on the servers operated by SmartThings(tm). Use of such infomation is governed by SmartThigs(tm) Privacy Policy.
+We may collect certain techncal data, including, but not limited to, IP addresses of the devices interracting with the Software, for the purpose of operating, maintenaning, troubleshooting and/or debugging the Software. Such information may be retained in the log files and/or databases stored on the servers operated by SmartThings(tm). Use of such infomation is governed by SmartThigs(tm) Privacy Policy.
 
 TERM AND TERMINATION
 
-These Terms of Use shall remain in full force and effect while you use the Software. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SOFTWARE, TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION.
+These Terms of Use shall remain in full force and effect while you use the Software.
+
+WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SOFTWARE, TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION.
 
 MODIFICATIONS AND INTERRUPTIONS
 
@@ -74,11 +76,11 @@ These Terms of Use and your use of the Software are governed by and construed in
 
 DISCLAIMER
 
-THE SOFTWARE IS PROVIDED ON AN AS-IS BASIS. YOU AGREE THAT YOUR USE OF THE SOFTWARE WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SOFTWARE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) BUGS, ERRORS, OR MISTAKES THAT MAY BE PRESENT IN THE SOFTWARE, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR USE, OR INABILITY TO USE, OF THE SOFTWARE, AND (4) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SOFTWARE BY ANY THIRD PARTY.
+THE SOFTWARE IS PROVIDED ON AN AS-IS BASIS. YOU AGREE THAT YOUR USE OF THE SOFTWARE WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SOFTWARE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) BUGS, ERRORS, OR MISTAKES THAT MAY BE PRESENT IN THE SOFTWARE, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE, AND (4) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SOFTWARE BY ANY THIRD PARTY.
 
 LIMITATIONS OF LIABILITY
 
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE, OR INABILITY TO USE, OF THE SOFTWARE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 MISCELLANEOUS
 
@@ -88,11 +90,11 @@ These Terms of Use operate to the fullest extent permissible by law. We may assi
 
 If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions.
 
-There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them.
+There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Software. You agree that these Terms of Use will not be construed against us by virtue of having drafted them.
 
 You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
 
 CONTACT US
 
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at statusbits@outlook.com.
+In order to resolve a complaint regarding the Software or to receive further information regarding use of the Software, please contact us at statusbits(at)outlook.com.
 
